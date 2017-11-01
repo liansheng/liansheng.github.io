@@ -5,14 +5,15 @@
 # Site
 title: Liansheng's Blog
 subtitle: Enjoy Life
-description:
-author: John Doe
+description: liansheng
+author: liansheng
 language: zh-Hans
 timezone: Asia/Shanghai
+avator: /images/logo.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://liansheng.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
