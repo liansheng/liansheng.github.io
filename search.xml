@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[test-post]]></title>
+    <url>%2F2019%2F06%2F19%2Ftest-post%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[first_bolg]]></title>
     <url>%2F2017%2F09%2F28%2Ffirst-bolg%2F</url>
     <content type="text"><![CDATA[test bolgthis bolg is test moremore content]]></content>

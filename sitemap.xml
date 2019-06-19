@@ -2,35 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2017/09/28/first-bolg/</loc>
+    <loc>https://liansheng.github.io/2019/06/19/test-post/</loc>
+    
+    <lastmod>2019-06-19T09:27:52.010Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://liansheng.github.io/2017/09/28/first-bolg/</loc>
     
     <lastmod>2017-10-03T07:37:51.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>https://liansheng.github.io/about/index.html</loc>
     
     <lastmod>2017-10-02T15:15:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>https://liansheng.github.io/tags/index.html</loc>
     
     <lastmod>2017-10-02T15:15:43.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>https://liansheng.github.io/categories/index.html</loc>
     
     <lastmod>2017-10-02T15:15:13.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/28/hello-world/</loc>
+    <loc>https://liansheng.github.io/2017/09/28/hello-world/</loc>
     
     <lastmod>2017-09-28T15:10:33.000Z</lastmod>
     
